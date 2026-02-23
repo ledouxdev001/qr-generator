@@ -30,13 +30,6 @@ git clone https://github.com/votre-pseudo/qr-gen.git
 # Accéder au dossier
 cd qr-gen
 
-# Ouvrir dans le navigateur
-open qr-generator.html
-```
-
-Ou déployez en ligne (voir section [Déploiement](#-déploiement)).
-
----
 
 ## 🛠️ Technologies utilisées
 
